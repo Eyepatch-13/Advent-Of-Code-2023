@@ -1,0 +1,1 @@
+/home/eyepatch/Programming/Advent-Of-Code-2023/solutions/target/debug/day1: /home/eyepatch/Programming/Advent-Of-Code-2023/solutions/src/bin/day-1.rs /home/eyepatch/Programming/Advent-Of-Code-2023/solutions/src/input.rs /home/eyepatch/Programming/Advent-Of-Code-2023/solutions/src/lib.rs
